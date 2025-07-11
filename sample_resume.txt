@@ -1,0 +1,74 @@
+Anushka Jha
+Software Developer
+Chandigarh, India
+Email: anushkajha211@gmail.com
+Phone: +91 88809 66611
+LinkedIn: linkedin.com/in/anushkajha01/
+
+EDUCATION
+
+Bachelor of Engineering in Computer Science
+Chandigarh University, Gharuan
+June 2021 – June 2025
+CGPA: 8.20
+Major Courses: Object-Oriented Programming, Operating Systems, Complexity Analysis, Databases, Computer Networks, Machine Learning, Image Processing, Data Structures and Algorithms
+
+EXPERIENCE
+
+Software Developer Intern – Tech Solutions India (2025 – Present)
+
+Developed modules for machine learning applications using Python and Scikit-learn
+Worked on SQL-based data pipelines for structured data preprocessing
+Built dashboards using HTML, CSS, and JavaScript for data presentation
+Collaborated using Git and GitHub in a team of 5 developers
+
+Junior Developer – CodeCrafters Labs (2023 – 2024)
+Created REST APIs using Flask and deployed them with Docker
+Implemented frontend features using basic React components
+Handled MySQL database integration and basic query optimization
+Participated in Agile sprint planning and code reviews
+
+SKILLS
+
+Programming Languages: Python, Java, SQL, HTML, CSS
+Frameworks & Libraries: Flask, Scikit-learn, Pandas, Matplotlib
+Databases: MySQL, SQLite
+Cloud & Tools: Git, GitHub, Docker
+Soft Skills: Leadership, Problem Solving, Communication, Active Listening, Adaptability
+
+PROJECTS
+
+Stock Price Prediction
+Role: Team Leader (Dec 2024 – Present)
+
+Developed a time-series prediction model using Facebook Prophet
+Analyzed stock trends and visualized patterns with Matplotlib
+Improved prediction performance through iterative model tuning
+
+Prediction of Loan Defaulters
+Role: Team Leader (Jun 2023 – Dec 2023)
+
+Built a classification model to predict defaulters using Python
+Used data cleaning and transformation techniques for training
+Evaluated models using accuracy, precision, and recall metrics
+
+Bidirectional Visitor Counter
+Role: Team Member (Dec 2022 – Jun 2023)
+
+Designed and implemented an Arduino-based system for tracking footfall
+Integrated infrared sensors to detect bidirectional movement
+Enabled real-time monitoring for building access management
+
+CERTIFICATIONS
+
+Python for Data Science – IIT Madras (NPTEL)
+Discrete Mathematics – IIT Ropar (NPTEL)
+Introduction to AR/VR/XR – Coursera
+
+EXTRA & CO-CURRICULAR ACTIVITIES
+
+1st Prize – Inter-School Essay Competition
+Head Girl – Student Council, Rose Public School (2018–2019)
+
+CAREER OBJECTIVE
+Result-oriented and detail-driven software developer with a solid foundation in programming, software engineering principles, and problem-solving. Experienced in leading projects and developing scalable applications using modern technologies. Seeking a software developer role to leverage my technical expertise, analytical mindset, and passion for building efficient, high-performance software solutions that contribute to organizational success.
